@@ -20,4 +20,4 @@ Issues are the way to ***track all the tasks and all the plans*** of the project
 ### ReadMe Profile
 README profile shares information about yourself by creating a profile in a repository. [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme)
 ## ❓ Confused about...
-I understand most of the function and features of GitHub, but I still need to get familier with some [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) 
+I understand most of the function and features of GitHub, but I still need to get familier with some [Markdown 🙂](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) 
